@@ -48,7 +48,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logo=white)
 
 <!-- Typewriter -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau&weight=200&size=20&duration=1500&pause=1000&color=451998&center=true&vCenter=true&multiline=true&random=false&width=890&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau&weight=200&size=20&duration=1500&pause=1000&color=290498&center=true&vCenter=true&multiline=true&random=false&width=890&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
 
 <!-- trophies -->
 <!-- <p align="center">
