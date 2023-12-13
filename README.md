@@ -1,30 +1,24 @@
-- 👋 Hi, I’m Yae Htet Aung.
-- 👀 I’m interested in Django, React, ReactNative & Nextjs.
-- 🌱 I’m currently learning Django, Nextjs & React.
-- 💞️ I’m collaborating on E-commerece, POS & Business Websites.
-- 📫 You can reach me using accounts described on my profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=120&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Yae+Htet+Aung.;I'm+from+Myanmar.;I'm+Junior+Full+Stack+Developmer.;I’m+interested+in+Django,+React,+ReactNative+&+Nextjs.;I’m+currently+stdying+Django,+Nextjs,+React+&+ReactNative.;I’m+collaborating+on+E-commerece,+POS+&+Business+Websites.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Yae+Htet+Aung.;I'm+from+Myanmar.;I'm+Junior+Full+Stack+Developmer;)](https://git.io/typing-svg)
-
- ![ZayarNaing's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+ ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
 <p align="center">
   <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=MgZayarNaing&column=6&theme=algolia" alt="ZayarNaing" /></p>
 </p>
 
-### 👨‍💻 Top Languages Used:
+### :black_heart: Top Languages Used:
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MgZayarNaing&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MgZayarNaing&theme=nord_dark" alt="Top Languages by Commits" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
 </p>
  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MgZayarNaing&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0000ff&text_color=87ceeb&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MgZayarNaing&layout=compact&hide_border=true&title_color=fff&text_color=87ceeb&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0000ff&text_color=87ceeb&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yae-Htet-Aung&layout=compact&hide_border=true&title_color=fff&text_color=87ceeb&bg_color=0d1117" />
 </div>
 
 
@@ -80,7 +74,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MgZayarNaing}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yae-Htet-Aung}/count.svg" /></p> 
 <br>
 </div>
 
