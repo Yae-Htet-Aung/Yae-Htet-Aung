@@ -1,7 +1,5 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=120&section=header"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau&weight=200&size=20&duration=1500&pause=1000&color=D0FF14&center=true&vCenter=true&multiline=true&random=false&width=890&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
-
  ### Main skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,6 +43,9 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<!-- Typewriter -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau&weight=200&size=20&duration=1500&pause=1000&color=D0FF14&center=true&vCenter=true&multiline=true&random=false&width=890&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
 
 <!-- trophies -->
 <p align="center">
