@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=120&section=header"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Yae+Htet+Aung.;I'm+from+Myanmar.;I'm+Junior+Full+Stack+Developmer.;I’m+interested+in+Django,+React,+ReactNative+&+Nextjs.;I’m+currently+stdying+Django,+Nextjs,+React+&+ReactNative.;I’m+collaborating+on+E-commerece,+POS+&+Business+Websites.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau&weight=200&size=16&duration=1500&pause=1000&color=D0FF14&center=true&vCenter=true&multiline=true&random=false&width=890&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
 
  ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
