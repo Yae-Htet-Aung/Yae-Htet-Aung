@@ -29,23 +29,23 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Hosting/SaaS
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logo=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logo=white)
 
 ### Version Control
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logo=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logo=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logo=white)
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logo=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logo=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logo=white&=ff1709&label=gray)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logo=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logo=white)
 
 <!-- Typewriter -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau&weight=200&size=20&duration=1500&pause=1000&color=66ff00&center=true&vCenter=true&multiline=true&random=false&width=890&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau&weight=200&size=20&duration=1500&pause=1000&color=ceff00&center=true&vCenter=true&multiline=true&random=false&width=890&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
 
 <!-- trophies -->
 <!-- <p align="center">
