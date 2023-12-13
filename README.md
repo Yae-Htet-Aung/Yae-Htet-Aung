@@ -6,15 +6,14 @@
 
 
 <p align="center">
-  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=MgZayarNaing&column=6&theme=algolia" alt="ZayarNaing" /></p>
+  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=Yae-Htet-Aung&column=6&theme=algolia" alt="Yae-Htet-Aung" /></p>
 </p>
 
-### :black_heart: Top Languages Used:
+### 👨‍💻 Top Languages Used:
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
 </p>
- Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0000ff&text_color=87ceeb&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -24,7 +23,7 @@
 
 
 <div align="center"> 
-<a href = "mailto:zayarnaing.st@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
