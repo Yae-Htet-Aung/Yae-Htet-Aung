@@ -48,7 +48,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logo=white)
 
 <!-- Typewriter -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ysabeau&weight=200&size=35&duration=1500&pause=1000&color=fff&center=false&vCenter=true&multiline=false&random=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=35&duration=1500&pause=1000&color=fff&center=false&vCenter=true&multiline=false&random=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+work+as+a+Junior+Frontend+Developer.;I%E2%80%99m+interested+in+Django%2C+React%2C+ReactNative+%26+Nextjs.;I%E2%80%99m+collaborating+on+E-commerece%2C+POS+%26+Business+Web+Apps.)](https://git.io/typing-svg)
 
 <!-- trophies -->
 <!-- <p align="center">
@@ -59,7 +59,7 @@
  ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 <!-- ### Top Languages Used: -->
-<div align="center" style="display: flex; justify-content: space-around;">
+<div align="center" style="display: flex; justify-content: space-around; border: 1px solid red;">
   <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
   <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
 </div>
