@@ -58,12 +58,12 @@
 <!-- Graph -->
  ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
-
-### Top Languages Used:
+<!-- ### Top Languages Used: -->
 <div align="center" style="display: flex; justify-content: space-around;">
   <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
   <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
 </div>
+
 <!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0000ff&text_color=87ceeb&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -78,7 +78,6 @@
 <a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  -->
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
