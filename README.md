@@ -72,7 +72,7 @@
   <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
 </div>
 
-<!--
+<!--ff0000
 <div align="center"> 
 <a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
@@ -86,7 +86,8 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<!-- footer wave -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#e34c26&height=120&section=footer"/>
 <!-- 
 
 -->
