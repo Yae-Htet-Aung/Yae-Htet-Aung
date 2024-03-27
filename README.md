@@ -48,7 +48,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logo=white)
 
 <!-- Typewriter -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=28&duration=1500&pause=1000&color=fff&center=false&vCenter=true&multiline=false&random=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+working+as+a+Frontend+Developer.;I%E2%80%99m+interested+in+JavaScript%2C+PHP%2C+%26+Python.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=28&duration=1500&pause=1000&color=fff&center=true&vCenter=true&multiline=false&random=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+currently+working+as+a+Frontend+Developer.;I%E2%80%99m+interested+in+JavaScript%2C+PHP%2C+%26+Python.;)](https://git.io/typing-svg)
 
 <!-- trophies -->
 <!-- <p align="center">
