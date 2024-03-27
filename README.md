@@ -87,7 +87,7 @@
 </div>
 
 <!-- footer wave -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#e34c26&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e34c26&height=120&section=footer"/>
 <!-- 
 
 -->
