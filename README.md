@@ -70,7 +70,7 @@
 </div>
 
 <!-- footer wave -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e3440&height=120&section=footer"/>
 
 
 
