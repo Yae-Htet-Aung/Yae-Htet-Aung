@@ -40,7 +40,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
 <!-- Typewriter -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=28&duration=1500&pause=1000&color=fff&center=true&vCenter=true&multiline=false&random=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+a+Frontend+Developer.;I%E2%80%99m+interested+in+JavaScript%2C+CSS%2C+PHP%2C+%26+Python.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=28&duration=1500&pause=2000&color=fff&center=true&vCenter=true&multiline=false&random=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+a+Frontend+Developer.;I%E2%80%99m+interested+in+JavaScript%2C+CSS%2C+PHP%2C+%26+Python.;)](https://git.io/typing-svg)
 
 <!-- Graph -->
  ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
