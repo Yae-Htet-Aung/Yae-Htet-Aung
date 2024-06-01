@@ -40,7 +40,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
 <!-- Typewriter -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=28&duration=1500&pause=2000&color=fff&center=true&vCenter=true&multiline=false&random=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+a+Frontend+Developer.;I%E2%80%99m+interested+in+JavaScript%2C+CSS%2C+PHP%2C+%26+Python.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=28&duration=1500&pause=2000&color=fff&center=true&vCenter=true&multiline=false&random=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Htet+Aung.;I%E2%80%99m+a+Frontend+Developer.;I%E2%80%99m+interested+in+JavaScript%2C+CSS%2C+PHPPython.;)](https://git.io/typing-svg)
 
 <!-- Graph -->
  ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
@@ -72,12 +72,12 @@
 
 
 <!--ff0000
+
+ -->
 <div align="center"> 
 <a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- -->
-
 <!-- trophies -->
 <!--
 <p align="center">
