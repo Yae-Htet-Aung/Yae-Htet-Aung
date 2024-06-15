@@ -44,12 +44,19 @@
 
 <!-- Graph -->
  ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
-
+<!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=0000ff&text_color=87ceeb&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yae-Htet-Aung&layout=compact&hide_border=true&title_color=fff&text_color=87ceeb&bg_color=0d1117" />
 </div>
+-->
 
+<p align="center">
+<a href="https://github.com/Yae-Htet-Aung">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yae-Htet-Aung&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<br />
 
 
 <!-- ### Top Languages Used: -->
