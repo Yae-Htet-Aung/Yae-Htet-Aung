@@ -16,13 +16,14 @@
 
 <!-- Graph -->
 ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+<br>
 
 <div align="center">
  <p align="centre"><b>Visitors Count</b></p>  
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yae-Htet-Aung}/count.svg" /></p> 
 </div>
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=120&section=header"/> -->
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=120&section=header"/> 
  ## Skills
  ### Laguages:
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,7 +53,7 @@
 
 ### Others:
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
 <hr> 
 <div align="center">
@@ -61,14 +62,6 @@
   <a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 <hr>
-
-<div align="center">
-  <a href="https://github.com/Yae-Htet-Aung" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yae-Htet-Aung&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</div>
-
-
 
 <!-- footer wave 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=646464&height=120&section=footer"/>
