@@ -52,10 +52,10 @@
 -->
 
 <p align="center">
-<a href="https://github.com/Yae-Htet-Aung">
+<div align="center" style="display: flex; justify-content: space-around;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
-</a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
+</div>
 <br />
 
 <!-- 
@@ -66,6 +66,7 @@
  <!-- 
 <div align="center" style="display: flex; justify-content: space-around;">
   <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
+  <img height="180em" style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
  -->
 </div>
 
