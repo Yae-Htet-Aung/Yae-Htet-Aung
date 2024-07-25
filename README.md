@@ -54,15 +54,17 @@
 <p align="center">
 <a href="https://github.com/Yae-Htet-Aung">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yae-Htet-Aung&layout=compact&langs_count=8&theme=algolia"/>
+  <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
 </a>
 <br />
 
+<!-- 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yae-Htet-Aung&layout=compact&langs_count=8&theme=algolia"/>
+-->
 
 <!-- ### Top Languages Used: -->
-<div align="center" style="display: flex; justify-content: space-around;">
-  <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
  <!-- 
+<div align="center" style="display: flex; justify-content: space-around;">
   <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
  -->
 </div>
