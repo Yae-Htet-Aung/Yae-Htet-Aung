@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&size=24&weight=600&letterSpacing=loose&duration=4000&pause=1000&color=AB7660&center=false&vCenter=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Tact+Aung%2F+Yae+Htet+Aung%2F.;I'm+a+full-stack+web+developer.;I'm+interested+in+JS%2C+PHP%2C++Flutter+%26+Python.)](https://git.io/typing-svg)
 
-<div align="left"> 
- <span>Get in touch with: </span>
- <a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 ## Currently working with:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -58,7 +53,13 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+<hr> 
+<div align="center">
+  <h2>🔧 Let's connect</h2>
+<div align="centre">
+  <a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<hr>
 
 
 
