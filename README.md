@@ -1,5 +1,33 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&size=24&weight=600&letterSpacing=loose&duration=4000&pause=1000&color=AB7660&center=false&vCenter=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Tact+Aung%2F+Yae+Htet+Aung%2F.;I'm+a+full-stack+web+developer.;I'm+interested+in+JS%2C+PHP%2C++Flutter+%26+Python.)](https://git.io/typing-svg)
+
+<div align="left"> 
+ <span>Get in touch with: </span>
+ <a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## Currently working with:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+
+<div align="center" style="width: 100%; display: flex; justify-content: space-around; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
+</div>
+
+<!-- Graph -->
+![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+
+<div align="center">
+ <p align="centre"><b>Visitors Count</b></p>  
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yae-Htet-Aung}/count.svg" /></p> 
+</div>
+
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=120&section=header"/> -->
- <!-- ## Skills
+ ## Skills
  ### Laguages:
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,23 +55,29 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Others:
-
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Currently working with:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
-<!-- Typewriter -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&size=24&weight=600&letterSpacing=loose&duration=4000&pause=1000&color=AB7660&center=false&vCenter=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Tact+Aung%2F+Yae+Htet+Aung%2F.;I'm+a+full-stack+web+developer.;I'm+interested+in+JS%2C+PHP%2C++Flutter+%26+Python.)](https://git.io/typing-svg)
 
-<!-- Graph -->
- ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+
+
+
+
+<!-- footer wave 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=646464&height=120&section=footer"/>
+-->
+
+<!-- LinkedIn
+<a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+-->
+ 
+<!-- trophies
+<p align="center">
+  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=Yae-Htet-Aung&column=6&theme=algolia" alt="Yae-Htet-Aung" /></p>
+</p>
+-->
+
 <!--
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=fff&icon_color=0000ff&text_color=87ceeb&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
@@ -51,48 +85,14 @@
 </div>
 -->
 
-<div align="center" style="width: 100%; display: flex; justify-content: space-around; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yae-Htet-Aung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
-</div>
-<br />
-
 <!-- 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yae-Htet-Aung&layout=compact&langs_count=8&theme=algolia"/>
 -->
 
-<!-- ### Top Languages Used: -->
- <!-- 
+<!-- ### Top Languages Used:
 <div align="center" style="display: flex; justify-content: space-around;">
   <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
   <img height="180em" style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
- -->
-</div>
-
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yae-Htet-Aung}/count.svg" /></p> 
-<br>
-</div>
-
-<!-- footer wave -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=646464&height=120&section=footer"/>
-
-
-
-
-<div align="center"> 
-<a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <!-- LinkedIn
-<a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- -->
- </div>
- 
-<!-- trophies -->
-<!--
-<p align="center">
-  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=Yae-Htet-Aung&column=6&theme=algolia" alt="Yae-Htet-Aung" /></p>
-</p>
+</div> 
 -->
+
