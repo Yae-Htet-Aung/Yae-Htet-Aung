@@ -1,6 +1,7 @@
 <br><br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&size=24&weight=600&letterSpacing=loose&duration=4000&pause=1000&color=AB7660&center=false&vCenter=false&width=1000&height=130&lines=Hello!+My+name+is+Yae+Tact+Aung%2F+Yae+Htet+Aung%2F.;I'm+a+full-stack+web+developer.;I'm+interested+in+JS%2C+PHP%2C++Flutter+%26+Python.)](https://git.io/typing-svg)
 
+
 ## Currently working with:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
