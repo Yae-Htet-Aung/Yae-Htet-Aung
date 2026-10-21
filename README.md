@@ -30,10 +30,10 @@
 ![]( https://github-readme-activity-graph.vercel.app/graph?username=Yae-Htet-Aung&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 <br>
 
-<div align="center">
+<!-- <div align="center">
  <p align="centre"><b>Visitors Count</b></p>  
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Yae-Htet-Aung}/count.svg" /></p> 
-</div>
+</div> -->
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=120&section=header"/> 
  ## Skills
@@ -67,9 +67,9 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
-<hr> 
+
 <div align="center">
-  <h2>🔧 Let's connect</h2>
+  <h2>✉️ Let's connect</h2>
 <div align="centre">
   <a href = "mailto:yaetactaung@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
