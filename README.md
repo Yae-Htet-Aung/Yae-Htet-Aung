@@ -67,11 +67,12 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
-
 <div align="centre">
-  <a href = "mailto:yaehtetaung.dev@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
-  </a>
+  <div align="centre">
+    <a href = "mailto:yaehtetaung.dev@gmail.com"> 
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+    </a>
+  </div>
 </div>
  
 
